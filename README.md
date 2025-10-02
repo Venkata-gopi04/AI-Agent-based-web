@@ -47,20 +47,7 @@ The goal is to design a **local-first AI Web Agent** that eliminates the need fo
 
 ---
 
-## 📥 Installation & Usage  
-```bash
-# Clone the repo
-git clone https://github.com/your-repo/ai-web-agent.git
-cd ai-web-agent
 
-# Install dependencies
-npm install   # or pip install -r requirements.txt
-
-# Run the agent
-npm start     # or python main.py
-```  
-
----
 
 ## 🙏 Acknowledgements  
 Special thanks to the open-source AI community and automation frameworks that made this possible.  
